@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorMainBackground">#34394A</color>
+    <color name="colorNumPadBackground">#3B4258</color>
+    <color name="colorOperationsButton">#4D546C</color>
+    <color name="colorEqualButton">#98E7D5</color>
+    <color name="colorDelButton">#9F5365</color>
+    <color name="colorCommonSigns">#464F69</color>
+    <color name="colorEqualSign">#214B4F</color>
+    <color name="colorDelSign">#C47389</color>
+</resources>
